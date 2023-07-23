@@ -148,3 +148,4 @@ DELETE FROM 테이블명 WHERE 조건
 [SQL문 총 정리!!(Feat. SQL문 정리 사이트)](https://comclothing.tistory.com/74)
 
 [기본 SQL Query문 정리 (SELECT, INSERT, UPDATE, DELETE)](https://lcs1245.tistory.com/entry/%EA%B8%B0%EB%B3%B8-SQL-Query%EB%AC%B8-%EC%A0%95%EB%A6%AC-SELECT-INSERT-UPDATE-DELETE#recentComments)
+
